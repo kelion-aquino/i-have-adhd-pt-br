@@ -2,3 +2,6 @@
 __pycache__/
 *.py[cod]
 evals/results/
+
+# zips gerados para upload no Claude desktop
+*.zip
